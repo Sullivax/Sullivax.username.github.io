@@ -1052,21 +1052,85 @@ a {
 .cid-sfzsKTTRO2 .mbr-text {
   color: #ffffff;
 }
-.cid-sfEgHDHvLd {
+.cid-sg8Pk16u1E .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-sg8Pk16u1E .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-sg8Pk16u1E .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-sg8Pk16u1E .mbr-section-title {
+  color: #000000;
+}
+.cid-sg98VDdgH8 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #2e2a27;
+  background-image: url("../../../assets/images/pizza-enseigne-gradient-png-2000x414.png");
 }
-.cid-sfEgHDHvLd .mbr-section-title,
-.cid-sfEgHDHvLd .mbr-text,
-.cid-sfEgHDHvLd .mbr-section-btn {
-  text-align: center;
-}
-.cid-sfEgHDHvLd .video-wrapper {
-  margin: auto;
-}
-.cid-sfEgHDHvLd .video-wrapper iframe {
+.cid-sg98VDdgH8 img,
+.cid-sg98VDdgH8 .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-sg98VDdgH8 .item:focus,
+.cid-sg98VDdgH8 span:focus {
+  outline: none;
+}
+.cid-sg98VDdgH8 .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sg98VDdgH8 .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #302933;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sg98VDdgH8 .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sg98VDdgH8 .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sg98VDdgH8 .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sg98VDdgH8 .mbr-section-title {
+  color: #fafafa;
+}
+.cid-sg98VDdgH8 .mbr-text,
+.cid-sg98VDdgH8 .mbr-section-btn {
+  text-align: left;
+}
+.cid-sg98VDdgH8 .item-title {
+  text-align: center;
+  color: #fafafa;
+}
+.cid-sg98VDdgH8 .item-subtitle {
+  text-align: left;
+  color: #bbbbbb;
+}
+.cid-sg98VDdgH8 .mbr-section-subtitle {
+  color: #fafafa;
 }
 .cid-sfEsRhypvF {
   padding-top: 0rem;
@@ -1099,9 +1163,9 @@ a {
   display: none;
 }
 .cid-sfEtdTuKzT {
-  padding-top: 5rem;
-  padding-bottom: 3rem;
-  background-color: #232323;
+  padding-top: 10rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/nik-0158-gradient-png-2000x1000.png");
 }
 .cid-sfEtdTuKzT .media-wrap {
   padding: 0;
@@ -1142,7 +1206,7 @@ a {
   }
 }
 .cid-sfEtdTuKzT .mbr-text {
-  color: #bbbbbb;
+  color: #fafafa;
   text-align: center;
 }
 .cid-sfEtdTuKzT .soc-item {
@@ -1299,7 +1363,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sfyjpHX2un .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 6.8rem);
   }
 }
 .cid-sfyjpHX2un .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1639,9 +1703,9 @@ a {
   color: #dedede;
 }
 .cid-sfEtdTuKzT {
-  padding-top: 5rem;
-  padding-bottom: 3rem;
-  background-color: #232323;
+  padding-top: 10rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/nik-0158-gradient-png-2000x1000.png");
 }
 .cid-sfEtdTuKzT .media-wrap {
   padding: 0;
@@ -1682,7 +1746,7 @@ a {
   }
 }
 .cid-sfEtdTuKzT .mbr-text {
-  color: #bbbbbb;
+  color: #fafafa;
   text-align: center;
 }
 .cid-sfEtdTuKzT .soc-item {
@@ -1839,7 +1903,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sfEeKybneq .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 6.8rem);
   }
 }
 .cid-sfEeKybneq .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2179,9 +2243,9 @@ a {
   color: #dedede;
 }
 .cid-sfEtdTuKzT {
-  padding-top: 5rem;
-  padding-bottom: 3rem;
-  background-color: #232323;
+  padding-top: 10rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/nik-0158-gradient-png-2000x1000.png");
 }
 .cid-sfEtdTuKzT .media-wrap {
   padding: 0;
@@ -2222,7 +2286,7 @@ a {
   }
 }
 .cid-sfEtdTuKzT .mbr-text {
-  color: #bbbbbb;
+  color: #fafafa;
   text-align: center;
 }
 .cid-sfEtdTuKzT .soc-item {
